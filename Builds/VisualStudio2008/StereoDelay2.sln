@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{E9D59806-D8C7-E2DF-8F7B-7EFA53DA3203}") = "StereoDelay2", "StereoDelay2.vcproj", "{15A8EE0C-8101-F51B-D8DF-B9AC6A9F20E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15A8EE0C-8101-F51B-D8DF-B9AC6A9F20E2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{15A8EE0C-8101-F51B-D8DF-B9AC6A9F20E2}.Debug|Win32.Build.0 = Debug|Win32
+		{15A8EE0C-8101-F51B-D8DF-B9AC6A9F20E2}.Release|Win32.ActiveCfg = Release|Win32
+		{15A8EE0C-8101-F51B-D8DF-B9AC6A9F20E2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
